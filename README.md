@@ -1,6 +1,6 @@
 # expo-observe filteredParams wildcard
 
-Minimal reproduction for `expo-observe@57.0.24`.
+Minimal reproduction for `expo-observe@57.0.25`.
 
 `filteredParams: ["*"]` is stored as a literal parameter name. It does not remove every route and query parameter.
 

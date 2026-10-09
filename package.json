@@ -6,7 +6,10 @@
     "repro": "tsx repro.ts"
   },
   "dependencies": {
-    "expo-observe": "57.0.24"
+    "expo": "^57.0.27",
+    "expo-observe": "~57.0.25",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
   },
   "devDependencies": {
     "tsx": "^4.23.15"
