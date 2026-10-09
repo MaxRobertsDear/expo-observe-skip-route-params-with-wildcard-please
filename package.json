@@ -1,0 +1,14 @@
+{
+  "name": "expo-observe-filtered-params-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "tsx repro.ts"
+  },
+  "dependencies": {
+    "expo-observe": "57.0.24"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}
